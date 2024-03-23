@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nhile00
+- 👋 Hi, I’m Nhi
 - 👀 I’m interested in software engineering, AI, and aerospace technology.
 - 🌱 I’m currently learning algorithms and data structures.
 - 💞️ I’m looking to collaborate on open-source projects related to software development or aerospace technology.
